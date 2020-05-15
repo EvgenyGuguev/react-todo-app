@@ -1,0 +1,21 @@
+.btn-color {
+    color: white;
+    border-color: white;
+}
+
+.btn-group {
+    margin-left: 1rem;
+}
+
+.btn-info {
+    background-color: #1dbc1d;
+}
+
+.btn-info:hover {
+    background-color: #0b730b;
+    border-color: white;
+}
+
+.btn-outline-secondary:hover {
+    border-color: white;
+}
